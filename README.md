@@ -1,4 +1,4 @@
-# Data Science / Data Analytics Projects
+# Data Science & Data Analytics Projects
 Thanks for visiting!
 
 This is a porfolio of Data Science and Data Analytics projects using the following languages:
