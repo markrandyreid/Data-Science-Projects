@@ -7,10 +7,12 @@ This is a porfolio of Data Science and Data Analytics projects using the followi
 * R
 * SQLite
 
-<p>Projects and assigments range in level of difficulty and analysis. The goal of displaying this work is to provide a comprehensive view of my ability and experience in Data Science, and Data Analytics, in general. Every project/assignment includes a brief description of the task/question, the method used, and the [desired] outcome [if applicable].</p>
+<p>Projects and assigments range in level of difficulty and analysis. 
+  The goal of displaying this work is to provide a comprehensive view of my ability and experience in Data Science, and Data Analytics, in general. 
+  Every project/assignment includes a brief description of the task/question, the method used, and the [desired] outcome [if applicable].</p>
 
 # Why R? 
-Python is the most prevailing language used for data science The R programming language is still used amoung fortune 100 companies and many academic/research institutions
+<p>Python is the prevailing language used for data science and data analytics. It's fairly easy to learn, has extensive libraries and a large community of developers and scientist that update the language and libraries. The R programming language is still used amoung fortune 100 companies and many academic/research institutions. R was the first language I learned </p>
 <hr>
 
 ## Table of Contents
