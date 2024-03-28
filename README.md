@@ -34,7 +34,7 @@ This is a porfolio of Data Science and Data Analytics projects from academia and
 
 <h2 id="Assignments">University Assignments</h2>
 
-  #### [(0) Exploring Messy Data Set with Tidy Library](www.google.com)
+  #### [(0) Exploring Messy Data Set with Tidy Library](https://github.com/markrandyreid/Data-Science-Projects/blob/main/dataimport_tidy.r)
   <p>Introduction to tidy library used to reorganize a dataframe and export (XLSX) locally. Comments outline additional steps taken to make dataframe more readable. Some data visualization included. Read</p>Language used: R
 
 
