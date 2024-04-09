@@ -35,8 +35,10 @@ This is a porfolio of Data Science and Data Analytics projects from academia and
 <h2 id="Assignments">University Assignments</h2>
 
   #### [(0) Exploring Messy Data Set with Tidy Library](https://github.com/markrandyreid/Data-Science-Projects/blob/main/SEandCLT.html)
-  <p>Introduction to tidy library used to reorganize a dataframe and export (XLSX) locally. Comments outline additional steps taken to make dataframe more readable. Some data visualization included. Read</p>Language used: R
+  <p>Introduction to tidy library used to reorganize a dataframe and export (XLSX) locally. Comments outline additional steps taken to make dataframe more readable. Some data visualization included. Read</p>Language(s) used: R
 
+  #### [(1) Introduction : Sampling, Point Estimation and Central Limit Theorem](https://github.com/markrandyreid/Data-Science-Projects/blob/main/SEandCLT.html)
+  <p>Briefly exploring the titled concepts using R and R Markdown</p>Language(s) used: R, HTML
 
 <h2 id="Current">Current Projects (Q2 2024)</h2>
 <p>Coming Soon</p>
