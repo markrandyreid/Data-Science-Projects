@@ -1,5 +1,5 @@
 ---
-title: "Sampling, Point Estimation and Central Limit Theorem in R - A brief introduction"
+title: "Sampling, Point Estimation & Central Limit Theorem using R - A brief introduction"
 output:
   html_document: default
   pdf_document: default
