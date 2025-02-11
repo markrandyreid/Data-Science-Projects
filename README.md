@@ -24,6 +24,7 @@ This is a porfolio of Data Science and Data Analytics projects from academia and
 *  [Projects](#Projects)
 *  [University Assignments](#Assignments)
 *  [Current Projects](#Current)
+*  [Professional Development](#ProfessionalDevelopment)
 *  [Contact Information](#Contact)
 
 
@@ -43,6 +44,10 @@ This is a porfolio of Data Science and Data Analytics projects from academia and
 
 <h2 id="Current">Current Projects (Q2 2024)</h2>
 <p>Coming Soon</p>
+
+<h2 id="ProfessionalDevelopment">Professional Development</h2>
+  
+  #### [(0) Python for Data Science, AI and Development](https://markrandyreid.github.io/SamplingPointEstimationCentralLimitTheorem/)
 
 <h2 id="Contact">Contact Information</h2>
 <p>E-mail: code@markrandyreid.com</p>
